@@ -15,7 +15,7 @@
     <meta content="width" name="MobileOptimized">
     <meta content="indonesian" name="language">
     <meta content='#007fa0' name='theme-color' />
-    <link rel="preload" as="image" href="https://i.ibb.co/gVFt2M3/logo.png" />
+    <link rel="preload" as="image" href="https://gacormedia.s3.us-east-1.amazonaws.com/img/gacormediaheader.png" />
     <link rel="preload" as="image" href="https://gacormedia.s3.amazonaws.com/in138/in138Slot.png" />
     <meta name="supported-amp-formats" content="websites,stories,ads,email">
     <meta name="twitter:card" content="summary">
